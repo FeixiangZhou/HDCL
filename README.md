@@ -30,8 +30,7 @@ pip install -r requirements.txt
 ### Training/Testing
 
 ```bash
-bash ./scripts/train_brats19.sh train
-bash ./scripts/train_brats19.sh val
+bash ./scripts/train_isles.sh train
 ```
 
 ## Results
