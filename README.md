@@ -16,7 +16,7 @@ Semi-supervised learning (SSL) has achieved promising results in medical image s
 The method is validated on two public datasets, including:
 
 - [**BraTS-2019**](https://cecas.clemson.edu/~ahoover/stare/): Brain tumor segmentation. 
-- [**ISLES-2022**](https://www.isles-challenge.org/): Stroke lesion segmentation. For data preprocessing and train/valid split, please refer to [github](https://github.com/pashtari/factorizer-isles22.git).
+- [**ISLES-2022**](https://www.isles-challenge.org/): Stroke lesion segmentation.
 
 
 ## Usage
